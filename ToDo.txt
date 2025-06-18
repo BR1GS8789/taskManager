@@ -1,0 +1,32 @@
+Criar um sistema de gerenciamento de tarefas
+
+Criar um menu de opções
+
+Criar um classe de tarefas, com as opções de titulo, descrição, prazo, e status (concluida ou não)(boolean)
+
+Criar metodos como concluir
+
+Criar outra classe Gerenciador de Tarefas que
+- Armazena uma lista de tarefas
+- Remove Tarefas
+- Listar Tarefas
+- Listar Tarefas Pendentes
+- Buscar Tarefa Por Título
+
+
+Opcionais:
+    Criar um jeito de salvar e ler as tarefas através de um .json
+    Ordenar por prazo
+    Filtrar por concluidas e pendentes
+
+
+
+Menu de opções
+1. Criar Tarefa
+2. Listar Tarefas
+3. Listar Tarefas Pendentes
+4. Concluir Tarefas
+4. Listar Por Prazo
+5. Remover Tarefas
+6. Buscar Tarefas Por Título
+7. Fechar Sistema
